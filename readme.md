@@ -1,3 +1,5 @@
+> This package is deprecated, a backward compatible v2 version of it is available here: [code16/privat](https://github.com/code16/privat)
+
 # Privat
 
 Private is a very simple password protection for Laravel projects.
